@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://88dianpu.github.io/sitemap.xml
